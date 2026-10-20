@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Address .9001f65f\\x64\\Debug\\modifyPerson.obj",
+            "outputs": [
+                "Address .9001f65f\\x64\\Debug\\modifyPerson.cpp.obj.dt.module.json",
+                "Address .9001f65f\\x64\\Debug\\modifyPerson.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

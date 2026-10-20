@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Address .9001f65f\\x64\\Debug\\yuan.obj",
+            "outputs": [
+                "Address .9001f65f\\x64\\Debug\\yuan.cpp.obj.dt.module.json",
+                "Address .9001f65f\\x64\\Debug\\yuan.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
